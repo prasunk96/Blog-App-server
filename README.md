@@ -1,4 +1,4 @@
-# GraphQL-MongoDB-Example
+# GraphQL-MongoDB
 
 All the important code is in `src/start.js`.
 
